@@ -22,6 +22,5 @@
         <file>res/PlayLevelSceneBg.png</file>
         <file>res/TapButtonSound.wav</file>
         <file>res/Title.png</file>
-        <file>res/summer_pockets_rb_master_up.jpg</file>
     </qresource>
 </RCC>
